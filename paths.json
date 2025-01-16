@@ -1,7 +1,9 @@
 {
   "mappings": [
     "/content/bp-test/:/",
-    "/content/bp-test/configuration:/.helix/config.json"                            
+    "/content/bp-test/configuration:/.helix/config.json",
+    "/content/bp-test/en/metadata:/en/metadata.json",
+    "/content/bp-test/en/tags:/en/tags.json"
   ],
   "includes": [
     "/content/bp-test"
